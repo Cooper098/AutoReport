@@ -1,5 +1,5 @@
 # SUT daily report   
-沈阳工业大学每日健康上报，使用Github Actions自动完成。    
+使用Github Actions自动完成。    
 仅供交流学习，请不要谎报瞒报！    
 # 使用说明  
 ## 配置Actions
