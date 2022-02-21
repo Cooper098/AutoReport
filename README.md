@@ -1,4 +1,4 @@
-# SUT daily report   
+# THE daily report   
 使用Github Actions自动完成。    
 仅供交流学习，请不要谎报瞒报！    
 # 使用说明  
