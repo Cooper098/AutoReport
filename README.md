@@ -57,3 +57,4 @@ on:
 pip install -r requirements.txt
 python report.py -u 用户名（学号） -p 密码
 ```
+ps：下次地点变更时，在setting-secret-action更新ADDRESS的值为中国,辽宁省,沈阳市,铁西区<@>沈阳工业大学，在config文件更改为沈阳市。
