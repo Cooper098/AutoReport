@@ -44,7 +44,7 @@ xcsj:
   行程时间：如果为空填写null
 ```
 ### 配置自动运行时间
-每日任务执行的时间，由.github/workflows/report.yml 中的cron表达式指定，    
+每日任务执行的时间，由.github/workflows/main.yml 中的cron表达式指定，    
 默认的执行时间为每日的11点和16点:
 ```
 on:
